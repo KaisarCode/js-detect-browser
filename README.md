@@ -1,5 +1,5 @@
 # Detect Browser
-[Browser] Detect browser
+[browser] Detect browser
 
 ### Install
 ```
