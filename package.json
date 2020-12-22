@@ -1,0 +1,20 @@
+{
+  "name": "kc-detect-browser",
+  "version": "1.0.0",
+  "description": "[Browser] Detect Browser",
+  "main": "detect-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-detect-browser.git"
+  },
+  "keywords": [
+    "detect",
+    "browser"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-detect-browser/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-detect-browser"
+}
